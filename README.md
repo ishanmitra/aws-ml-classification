@@ -1,5 +1,5 @@
 # Deploy and monitor a machine learning workflow for Image Classification #
-An image-classification project for Udacity's AWS Machine Learning Nanodegree.
+An image-classification project for Udacity's AWS Machine Learning Fundamentals Nanodegree.
 
 ## Table of Contents ##
 1. [Overview](#overview)
@@ -9,7 +9,7 @@ An image-classification project for Udacity's AWS Machine Learning Nanodegree.
 
 
 ## Overview<a name="overview"></a> ##
-This is a project in Udacity’s AWS Machine Learning Engineer Nanodegree geared towards building an ML workflow.
+This is a project in Udacity’s AWS Machine Learning Fundamentals Nanodegree geared towards building an ML workflow.
 
 The project uses a sample dataset called CIFAR to simulate an image classification model. The machine learning workflow for Image Classification is deployed using AWS resources such as, `sagemaker` and `boto3` SDKs, image-classification built-in algorithm, Lambda functions and Step Function Workflow, and SageMaker model monitor and endpoint.  
 
