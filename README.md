@@ -20,13 +20,13 @@ The goal of this project is to:
 2. Deploy the model for inference using AWS Lambda functions and AWS Step functions.
 
 ## File Contents<a name="file_contents"></a> ##
-* 'starter.ipynb': Jupyter notebook with solution and visualisations
+* `starter.ipynb` : Jupyter notebook with solution and visualisations
 
-* 'lambda.py': All three Amazon Lambda functions later invoked in Step Functions
+* `lambda.py` : All three Amazon Lambda functions later invoked in Step Functions
 
-* 'StepFunction.json': Exported JSON for Step Function flowchart
+* `StepFunction.json` : Exported JSON for Step Function flowchart
 
-* 'stepfunction/': Image directory
+* `stepfunction/` : Image directory
 
 ## Step Function<a name="step_function"></a> ##
 ![step_function](https://raw.githubusercontent.com/ishanmitra/aws-ml-classification/main/StepFunction.png)  
